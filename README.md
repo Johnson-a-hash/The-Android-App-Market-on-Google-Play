@@ -3,6 +3,7 @@ Introduction.
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. This project is a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Insights in the data help to devise strategies to drive growth and retention.
 
 Project Description. 
+
 This project lets you apply the skills from Data Manipulating with pandas. 
 The data for this project was from DataCamp.
 
